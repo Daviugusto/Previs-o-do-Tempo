@@ -11,12 +11,13 @@ Condições climáticas
 Interface responsiva
 
 
+
 🛠️ Tecnologias
-HTML5
-CSS3
-JavaScript
-REACT
-API OpenWeather
+*HTML5
+*CSS3
+*JavaScript
+*REACT
+*API OpenWeather
 
 
 
