@@ -19,9 +19,15 @@ API OpenWeather
 Praticar o consumo de APIs REST utilizando JavaScript, manipulação do DOM e exibição dinâmica de informações em uma interface amigável.
 
 📸 Preview
+
 <img width="319" height="626" alt="image" src="https://github.com/user-attachments/assets/48dc3229-1768-454e-b637-b26891e6797e" />
+
+
+
 🔗 Demonstração
 https://previsaodtemp.netlify.app/
+
+
 👨‍💻 Autor
 
 Desenvolvido por Davi.
