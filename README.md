@@ -9,11 +9,17 @@ Umidade do ar
 Condições climáticas
 Ícone do clima
 Interface responsiva
+
+
 🛠️ Tecnologias
 HTML5
 CSS3
 JavaScript
+REACT
 API OpenWeather
+
+
+
 🎯 Objetivo
 
 Praticar o consumo de APIs REST utilizando JavaScript, manipulação do DOM e exibição dinâmica de informações em uma interface amigável.
